@@ -1,6 +1,6 @@
-# NeTracker
+# Book World
 
-This is  an application that utilizes the UsageStatsManager , an API introduced in Android 5.0 Lollipop (API Level 21) which allows us to retrieve statistics about the usage of the apps installed on the device.This app uses the api to give third party opinions about other app operations,allowing the user to have more controll over their device.
+This is  An app that gives you access to an endless list of books for a topic of your choice.
 ## Table of contents
 * [Project Name](#Project)
 * [Author](#Author)
